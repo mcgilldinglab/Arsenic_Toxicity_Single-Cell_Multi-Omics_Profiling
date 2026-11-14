@@ -1,0 +1,11 @@
+HISTORICAL LICENSE AND ATTRIBUTION NOTICES — Arsenic_Toxicity_Single-Cell_Multi-Omics_Profiling
+
+Baseline before the licensing update:
+https://github.com/mcgilldinglab/Arsenic_Toxicity_Single-Cell_Multi-Omics_Profiling/commit/cd035f3e5af4b52245b10f5bb1795590bc2a36c5
+
+The following prior notices are retained verbatim. Earlier grants and notices
+continue to apply to the material they cover; the new licensing notice does
+not revoke those rights or relicense third-party material.
+
+No root license file was present in the captured baseline.
+
